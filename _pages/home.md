@@ -5,7 +5,7 @@ author_profile: true
 title: "About Me"
 excerpt: ""
 header:
-  overlay_image: assets/images/ocean-waves.jpg
+  overlay_image: assets/images/ocean1.jpg
 ---
 
 Under construction.
