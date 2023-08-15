@@ -1,12 +1,12 @@
 ---
-layout: home
-permalink: /
+permalink: /               # Slash defines this file as the root page
+layout: single 
+author_profile: true
+author: Scott Conn
 title: "About Me"
+excerpt: ""
 header:
   overlay_image: assets/images/ocean-waves.jpg
-author_profile: true
-redirect_from: 
-  - /home/
-  - /home.html
 ---
+
 Under construction.
