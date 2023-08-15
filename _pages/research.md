@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Researchh"
+title: "Research"
 permalink: /research/
 author_profile: true
 ---
