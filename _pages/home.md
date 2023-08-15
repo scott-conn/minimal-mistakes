@@ -5,7 +5,7 @@ author_profile: true
 title: "About Me"
 excerpt: ""
 header:
-  overlay_image: assets/images/ocean2.jpg
+  image: assets/images/ocean2.jpg
 ---
 
 # <center> Welcome to my homepage!</center> 
