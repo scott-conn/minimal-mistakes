@@ -105,13 +105,13 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Graduate student at Caltech."
   location         : "Pasadena, CA"
-  email            :
+  avatar           : "/assets/head_shot.JPG"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:sconn@caltech.edu"
     - label: "GitHub"
-      icon: "fab fa-fw fa-square-github"
+      icon: "fab fa-fw fa-github-square"
       url: "https://github.com/scott-conn"
     - label: "ORCID"
       icon: "fab fa-fw fa-orcid"
