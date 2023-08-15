@@ -192,7 +192,7 @@ incremental: false
 
 # Collections
 collections:
-  publications:
+  publication:
     output: true
     permalink: /:collection/:path/
 
