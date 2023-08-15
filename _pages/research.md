@@ -6,10 +6,8 @@ author_profile: true
 header:
   overlay_image: /assets/images/ocean3.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+mathjx: true
 ---
-<script type="text/javascript" async
-  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
-</script>
 # <center> About my research</center> 
 
 ## Near-Inertial Wave Dynmics 
