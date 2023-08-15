@@ -5,7 +5,7 @@ header:
   overlay_image: assets/images/ocean-waves.jpg
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /home/
+  - /home.html
 ---
 Under construction.
