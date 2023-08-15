@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Publications"
-permalink: /publications/
+permalink: /publication/
 author_profile: true
 header:
   overlay_image: /assets/images/ocean1.jpg
