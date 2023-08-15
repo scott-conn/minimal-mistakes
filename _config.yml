@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "Scott Conn"
-  avatar           : "/assets/images/head_shot.jpeg"
+  avatar           : "/assets/images/head_shot-min.jpeg"
   bio              : "Graduate student at Caltech."
   location         : "Pasadena, CA"
   links:
