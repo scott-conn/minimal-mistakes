@@ -16,6 +16,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
   {% include archive-single.html %}
 {% endfor %}
 
+## More about some of my papers:
 <ul>
   {% for post in site.posts %}
     <li>
