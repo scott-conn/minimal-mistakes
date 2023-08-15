@@ -102,10 +102,9 @@ analytics:
 # Site Author
 author:
   name             : "Scott Conn"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/head_shot.jpeg"
   bio              : "Graduate student at Caltech."
   location         : "Pasadena, CA"
-  avatar           : "/assets/head_shot.JPG"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
