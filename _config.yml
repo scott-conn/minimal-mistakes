@@ -111,7 +111,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:sconn@caltech.edu"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "fab fa-fw fa-square-github"
       url: "https://github.com/scott-conn"
     - label: "ORCID"
       icon: "fab fa-fw fa-orcid"
