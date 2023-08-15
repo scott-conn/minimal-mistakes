@@ -11,7 +11,7 @@ header:
 You can also find my articles on <u><a href="https://scholar.google.com/citations?hl=en&user=JcMg2gMAAAAJ">my Google Scholar profile</a>.</u>
 
 ## Submitted 
-<p>  [1] <b>Conn, S.</b>, Fitzgerald, J. &amp; Callies, J. (2023) <a href="https://arxiv.org/abs/2308.00889">Interpreting Observed Interactions between Near-Inertial Waves and Mesoscale Eddies</i>.</p> 
+<p>  [1] <b>Conn, S.</b>, Fitzgerald, J. &amp; Callies, J. (2023) <a href="https://arxiv.org/abs/2308.00889">Interpreting Observed Interactions between Near-Inertial Waves and Mesoscale Eddies</a>, <i>arXiv preprint</i>.</p> 
 
 ## Published
 
