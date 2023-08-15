@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/ocean1.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
-
+# <center> Here are my publications!</center> 
 You can also find my articles on <u><a href="https://scholar.google.com/citations?hl=en&user=JcMg2gMAAAAJ">my Google Scholar profile</a>.</u>
 
 ## Submitted 
