@@ -18,4 +18,6 @@ I am interested in the dynamics of near-inertial waves (NIWs) with a focus on un
 As NIWs propagate in the ocean, they interact with the mesoscale eddy field. This is known to significantly affect the evolution of NIWs. My research has focused on understanding how to observe this interaction.
 </p>
 
-## Southern Ocean Dynmics 
+## Southern Ocean Dynamics 
+
+## Meridional Overturning Circulation 
