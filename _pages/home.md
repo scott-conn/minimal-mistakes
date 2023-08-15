@@ -6,6 +6,7 @@ title: "About Me"
 excerpt: ""
 header:
   overlay_image: assets/images/ocean2.jpg
+  overlay_filter: 0.5
 ---
 
 # <center> Welcome to my homepage!</center> 
