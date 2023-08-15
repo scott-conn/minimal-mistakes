@@ -9,4 +9,4 @@ header:
 ---
 
 # <center> Welcome to my homepage!</center> 
-I am a graduate student at caltech working with <a href=" https://jcallies.com/">Jörn Callies</a> and <a href=" https://web.gps.caltech.edu/~andrewt/">Andy Thompson</a> on wave-eddy interactions and Southern Ocean dynamics.
+I am a graduate student at Caltech working with <a href=" https://jcallies.com/">Jörn Callies</a> and <a href=" https://web.gps.caltech.edu/~andrewt/">Andy Thompson</a> on wave-eddy interactions and Southern Ocean dynamics.
