@@ -1,6 +1,6 @@
 ---
 permalink: /               # Slash defines this file as the root page
-layout: archive 
+layout: single 
 author_profile: true
 author: Scott Conn
 title: "About Me"
