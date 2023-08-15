@@ -8,6 +8,4 @@ header:
   overlay_filter: 0.7 # same as adding an opacity of 0.5 to a black background
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+You can also find my articles on <u><a href="https://scholar.google.com/citations?hl=en&user=JcMg2gMAAAAJ">my Google Scholar profile</a>.</u>
