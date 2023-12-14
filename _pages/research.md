@@ -24,3 +24,17 @@ The dynamics of NIWs may be strongly modulated by the mesoscale eddy field. My t
 <p style="font-style: italic; font-size: 14px; color: #555;">This animation shows simulations of the NIW-mesoscale interaction. The surface shows the mesoscale vorticity and the depth shows the wave activity (for NIWs this is proportional to the wave kinetic energy). There is rapid concentration of NIWs into anticyclones where they can propagate to depth.:</p>
 
 
+<head>
+    <meta charset="utf-8">
+    <title>YBJ Simulation</title>
+</head>
+<body>
+    <h1>My Video</h1>
+    
+    <video width="640" height="360" controls>
+        <source src="assets/anim.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</body>
+
+
