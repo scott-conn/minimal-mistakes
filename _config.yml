@@ -163,6 +163,7 @@ exclude:
   - Capfile
   - CHANGELOG
   - config
+  - draft_talks.md
   - Gemfile
   - Gruntfile.js
   - gulpfile.js
