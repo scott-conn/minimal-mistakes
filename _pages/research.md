@@ -20,9 +20,7 @@ The dynamics of NIWs may be strongly modulated by the mesoscale eddy field. My t
     <meta charset="utf-8">
     <title>YBJ Simulation</title>
 </head>
-<body>
-    <h1>My Video</h1>
-    
+<body>    
     <video width="640" height="360" controls>
         <source src="https://raw.githubusercontent.com/scott-conn/scott-conn.github.io/master/assets/anim.mp4" type="video/mp4">
         Your browser does not support the video tag.
