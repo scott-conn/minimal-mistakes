@@ -1,4 +1,4 @@
-`--
+---
 permalink: /               # Slash defines this file as the root page
 layout: archive 
 author_profile: true
